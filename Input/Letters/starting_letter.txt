@@ -1,0 +1,4 @@
+Dear [PLACERHOLDER_SEND_TO],
+This is a message.
+
+[PLACEHOLDER_SENDER]
